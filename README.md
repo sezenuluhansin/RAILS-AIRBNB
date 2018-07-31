@@ -1,2 +1,2 @@
 # RAILS-AIRBNB
-rails practise
+rails practise to improve ruby on rails coding skills,lololol
